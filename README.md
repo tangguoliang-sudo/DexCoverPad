@@ -48,3 +48,4 @@ Output: `app/build/outputs/apk/release/app-release.apk`
 | Long press | Right click |
 | Left Click button | Left click |
 | Right Click button | Right click |
+ok
